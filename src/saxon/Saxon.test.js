@@ -10,9 +10,9 @@ describe("Saxon", () => {
     saxon = new Saxon(health, strength);
   });
 
-  // test("should inherit from Soldier", () => {
-  //   expect(saxon instanceof Soldier).toEqual(true);
-  // });
+  //  test("should inherit from Soldier", () => {
+  //    expect(saxon instanceof Soldier).toEqual(true);
+  //  });
 
   describe("constructor function", () => {
     //   test("should receive 2 arguments (health & strength)", ()=> {
